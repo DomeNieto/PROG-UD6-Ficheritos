@@ -16,5 +16,5 @@ public class Table  implements Serializable {
     public String toString() {
         return "********************Mesa*********************" +
         "\nColor:" +  this.color + "\nNumero de patas:" +  this.legs ;
-    }F
+    }
 }
